@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3459077 */
+  src: url('../fonts/iconfont.woff2?t=1655290904723') format('woff2'),
+       url('../fonts/iconfont.woff?t=1655290904723') format('woff'),
+       url('../fonts/iconfont.ttf?t=1655290904723') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-changyongicon-:before {
+  content: "\e612";
+}
+
+.icon-changyongicon-1:before {
+  content: "\e617";
+}
+
+.icon-waimaidingdan-01:before {
+  content: "\e66c";
+}
+
+.icon-shouji:before {
+  content: "\e600";
+}
+
+.icon-quanbudingdan:before {
+  content: "\e601";
+}
+
+.icon-shiwujiaoxing:before {
+  content: "\e634";
+}
+
+.icon-shouye:before {
+  content: "\e751";
+}
+
+.icon-wodedingdan:before {
+  content: "\e648";
+}
+
+.icon-ai65:before {
+  content: "\e6b7";
+}
+
+.icon-jifen:before {
+  content: "\e610";
+}
+
+.icon-gerenxinxi:before {
+  content: "\e619";
+}
+
+.icon-sousuo:before {
+  content: "\e64f";
+}
+
+.icon-huiyuan:before {
+  content: "\e645";
+}
+
