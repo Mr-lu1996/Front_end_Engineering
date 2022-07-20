@@ -1,0 +1,13 @@
+/*
+ * @Author: 南山彭于晏
+ * @Date: 2022-07-19 22:18:21
+ * @LastEditTime: 2022-07-19 22:19:05
+ * @FilePath: \Webpack5\00_前端工程化\01_脚手架工具\3_mycli\templates\style.css
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by 南山彭于晏, All Rights Reserved. 
+ */
+body {
+  margin: 0;
+  background-color: deeppink;
+}
