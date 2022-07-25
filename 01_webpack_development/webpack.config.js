@@ -1,3 +1,12 @@
+/*
+ * @Author: 南山彭于晏
+ * @Date: 2022-06-20 20:26:07
+ * @LastEditTime: 2022-07-20 22:57:41
+ * @FilePath: \Webpack5\01_webpack_development\webpack.config.js
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by 南山彭于晏, All Rights Reserved. 
+ */
 // Node.js的核心模块，专门用来处理文件路径
 const path = require('path')
 const ESLintWebpackPlugin = require("eslint-webpack-plugin");

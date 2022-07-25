@@ -1,0 +1,13 @@
+{
+  "name": "4_npms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "foo": "node foo.js",
+    "style": "lessc ./main.less ./main.css && minify main.css > main.min.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
